@@ -1,4 +1,4 @@
-# Tela de Boas Vindas do Tiger OS
+# Tela de Boas Vindas do Aratiê
 
 ## Dependencias
 
@@ -12,7 +12,7 @@ sudo apt install qt6-base-dev build-essential libqt6svg6-dev
 ## Clonando o repositório
 
 ```bash
-git clone https://github.com/Tiger-OperatingSystem/welcome-qt.git
+git clone https://github.com/aratie-os/welcome.git
 ```
 
 ## Build
