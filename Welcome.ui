@@ -234,7 +234,7 @@ QListView::item{
               <widget class="QPushButton" name="BreezeLight">
                <property name="icon">
                 <iconset>
-                 <normaloff>:/Imgs/DesktopThemesColors/Imgs/DesktopThemesColors/DesktopLight-1.png</normaloff>:/Imgs/DesktopThemesColors/Imgs/DesktopThemesColors/DesktopLight-1.png</iconset>
+                 <normaloff>Imgs/DesktopThemesColors/DesktopLight.png</normaloff>Imgs/DesktopThemesColors/DesktopLight.png</iconset>
                </property>
                <property name="iconSize">
                 <size>
@@ -273,7 +273,7 @@ QListView::item{
               <widget class="QPushButton" name="BreezeDark">
                <property name="icon">
                 <iconset>
-                 <normaloff>:/Imgs/DesktopThemesColors/Imgs/DesktopThemesColors/DesktopDark-1.png</normaloff>:/Imgs/DesktopThemesColors/Imgs/DesktopThemesColors/DesktopDark-1.png</iconset>
+                 <normaloff>Imgs/DesktopThemesColors/DesktopDark.png</normaloff>Imgs/DesktopThemesColors/DesktopDark.png</iconset>
                </property>
                <property name="iconSize">
                 <size>
@@ -374,7 +374,7 @@ QListView::item{
               <widget class="QPushButton" name="color_1">
                <property name="icon">
                 <iconset>
-                 <normaloff>Imgs/IconsThemeColors/folder-violet.png</normaloff>Imgs/IconsThemeColors/folder-violet.png</iconset>
+                 <normaloff>Imgs/IconsThemeColors/folder-violet.svg</normaloff>Imgs/IconsThemeColors/folder-violet.svg</iconset>
                </property>
                <property name="iconSize">
                 <size>
@@ -425,7 +425,7 @@ QListView::item{
                </property>
                <property name="icon">
                 <iconset>
-                 <normaloff>Imgs/IconsThemeColors/folder-green.png</normaloff>Imgs/IconsThemeColors/folder-green.png</iconset>
+                 <normaloff>Imgs/IconsThemeColors/folder-green.svg</normaloff>Imgs/IconsThemeColors/folder-green.svg</iconset>
                </property>
                <property name="iconSize">
                 <size>
@@ -470,7 +470,7 @@ QListView::item{
               <widget class="QPushButton" name="color_3">
                <property name="icon">
                 <iconset>
-                 <normaloff>Imgs/IconsThemeColors/folder-brown.png</normaloff>Imgs/IconsThemeColors/folder-brown.png</iconset>
+                 <normaloff>Imgs/IconsThemeColors/folder-brown.svg</normaloff>Imgs/IconsThemeColors/folder-brown.svg</iconset>
                </property>
                <property name="iconSize">
                 <size>
@@ -515,7 +515,7 @@ QListView::item{
               <widget class="QPushButton" name="color_4">
                <property name="icon">
                 <iconset>
-                 <normaloff>Imgs/IconsThemeColors/folder-grey.png</normaloff>Imgs/IconsThemeColors/folder-grey.png</iconset>
+                 <normaloff>Imgs/IconsThemeColors/folder-grey.svg</normaloff>Imgs/IconsThemeColors/folder-grey.svg</iconset>
                </property>
                <property name="iconSize">
                 <size>
@@ -560,7 +560,7 @@ QListView::item{
               <widget class="QPushButton" name="color_5">
                <property name="icon">
                 <iconset>
-                 <normaloff>Imgs/IconsThemeColors/folder-blue.png</normaloff>Imgs/IconsThemeColors/folder-blue.png</iconset>
+                 <normaloff>Imgs/IconsThemeColors/folder-blue.svg</normaloff>Imgs/IconsThemeColors/folder-blue.svg</iconset>
                </property>
                <property name="iconSize">
                 <size>
@@ -608,7 +608,7 @@ QListView::item{
                </property>
                <property name="icon">
                 <iconset>
-                 <normaloff>Imgs/IconsThemeColors/folder-magenta.png</normaloff>Imgs/IconsThemeColors/folder-magenta.png</iconset>
+                 <normaloff>Imgs/IconsThemeColors/folder-magenta.svg</normaloff>Imgs/IconsThemeColors/folder-magenta.svg</iconset>
                </property>
                <property name="iconSize">
                 <size>
